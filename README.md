@@ -2,9 +2,8 @@
 Musical Midia Collection Manager
 College project for Advanced OOP
 
-Design Patterns applied ()
-{
-Behavioral Pattern: Template Method;
-Creational Pattern: Abstract Factory;
-Structural Pattern: Adapter;
-}
+Design Patterns applied:
+- MVC
+- Behavioral Pattern: Template Method;
+- Creational Pattern: Abstract Factory;
+- Structural Pattern: Adapter;
